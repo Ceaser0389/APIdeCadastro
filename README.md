@@ -1,4 +1,4 @@
-# Projeto API de Caddastro
+# Projeto API de Cadastro 
 
 # Sobre o projeto
 
